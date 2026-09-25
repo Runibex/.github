@@ -1,5 +1,5 @@
-# .github
-Runibex
+# Runibex
+
 
 Runibex is a technology products company, founded in 1988, that builds and operates commercial software products on public cloud infrastructure. We run our own products in production on AWS and Azure, and we provide the cloud engineering and managed services that came out of doing that work. We serve enterprises across Europe and the Middle East from offices in Istanbul and London.
 
