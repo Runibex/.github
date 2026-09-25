@@ -1,6 +1,5 @@
 # Runibex
 
-
 Runibex is a technology products company, founded in 1988, that builds and operates commercial software products on public cloud infrastructure. We run our own products in production on AWS and Azure, and we provide the cloud engineering and managed services that came out of doing that work. We serve enterprises across Europe and the Middle East from offices in Istanbul and London.
 
 Our commercial model shapes the technical advice we give, so it is worth being direct about it. Runibex is paid by the customer, not by cloud vendors. There are no consumption kickbacks or volume incentives in our revenue. Recommending that a customer reduce their cloud spend, move a workload between providers, or keep something on-premises costs us nothing. We hold partnerships with AWS, Microsoft Azure, and Huawei Cloud, and we are commercially independent of all three.
